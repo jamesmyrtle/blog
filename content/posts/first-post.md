@@ -1,7 +1,7 @@
 ---
 title: "First Post"
 date: 2018-01-17T13:10:56-05:00
-draft: true
+draft: false
 tags: ["pcom"]
 ---
 
